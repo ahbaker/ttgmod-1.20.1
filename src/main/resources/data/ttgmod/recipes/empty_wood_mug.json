@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "W": {
+      "tag": "wooden_slabs"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "   ",
+    "WWs",
+    "WW "
+  ],
+  "result": {
+    "item": "ttgmod:empty_wood_mug",
+    "count": 4
+  }
+}

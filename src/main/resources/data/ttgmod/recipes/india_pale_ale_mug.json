@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:india_pale_ale_mug",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "ttgmod:hops_item"},
+    {"item": "ttgmod:hops_item"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_wood_mug",
+  "cookTicks": 200,
+  "name": "India Pale Ale",
+  "makes": 4
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "tag": "wooden_slabs"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "SiS",
+    "Sbi",
+    "SiS"
+  ],
+  "result": {
+    "item": "ttgmod:brew_keg_block",
+    "count": 1
+  }
+}

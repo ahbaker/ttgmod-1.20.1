@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:floral_pilsner_pint",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "ttgmod:hops_item"},
+    {"tag": "flowers"},
+    {"tag": "flowers"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Floral Pilsner",
+  "makes": 4
+}

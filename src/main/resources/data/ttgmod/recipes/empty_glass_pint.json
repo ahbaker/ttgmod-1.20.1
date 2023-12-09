@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "g g",
+    "g g",
+    " g "
+  ],
+  "result": {
+    "item": "ttgmod:empty_glass_pint",
+    "count": 4
+  }
+}

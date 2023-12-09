@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "p": {
+      "item": "ttgmod:pretzel"
+    },
+    "b": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "pbp",
+    "ppp"
+  ],
+  "result": {
+    "item": "ttgmod:pretzel_bowl_block",
+    "count": 1
+  }
+}

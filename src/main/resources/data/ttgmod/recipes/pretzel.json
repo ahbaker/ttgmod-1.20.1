@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "www",
+    " w ",
+    "w w"
+  ],
+  "result": {
+    "item": "ttgmod:pretzel",
+    "count": 4
+  }
+}

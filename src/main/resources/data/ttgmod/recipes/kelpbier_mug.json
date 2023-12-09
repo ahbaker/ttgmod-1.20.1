@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:kelpbier_mug",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "ttgmod:hops_item"},
+    {"item": "minecraft:dried_kelp"},
+    {"item": "minecraft:dried_kelp"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_wood_mug",
+  "cookTicks": 200,
+  "name": "Kelpbier",
+  "makes": 4
+}

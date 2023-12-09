@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:chorus_lager_pint",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:chorus_fruit"},
+    {"item": "minecraft:chorus_fruit"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Chorus Lager",
+  "makes": 4
+}

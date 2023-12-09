@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:mushroom_ale_pint",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:brown_mushroom"},
+    {"item": "minecraft:red_mushroom"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Mushroom Ale",
+  "makes": 4
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ttgmod:block/brew_keg_block"},
+    "facing=east": { "model": "ttgmod:block/brew_keg_block", "y": 90 },
+    "facing=south": { "model": "ttgmod:block/brew_keg_block", "y": 180 },
+    "facing=west": { "model": "ttgmod:block/brew_keg_block", "y": 270 }
+  }
+}

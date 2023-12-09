@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:sweet_berry_lambic_pint",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:sugar"},
+    {"item": "minecraft:sweet_berries"},
+    {"item": "minecraft:sweet_berries"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Sweet Berry Lambic",
+  "makes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:choco_stout_pint",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:cocoa_beans"},
+    {"item": "minecraft:cocoa_beans"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Chocolate Stout",
+  "makes": 4
+}

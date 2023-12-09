@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:mead_pint",
+  "ingredients": [
+    {"item": "minecraft:honey_bottle"},
+    {"item": "minecraft:honey_bottle"},
+    {"item": "minecraft:honey_bottle"},
+    {"tag": "flowers"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_glass_pint",
+  "cookTicks": 200,
+  "name": "Mead",
+  "makes": 4
+}

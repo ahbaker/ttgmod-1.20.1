@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:beet_red_ale_mug",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:beetroot"},
+    {"item": "minecraft:beetroot"}
+  ],
+  "liquid": "minecraft:water_bucket",
+  "container": "ttgmod:empty_wood_mug",
+  "cookTicks": 200,
+  "name": "Beet Red Ale",
+  "makes": 4
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "bowl_state=8": { "model": "ttgmod:block/pretzel_bowl_block_8" },
+    "bowl_state=7": { "model": "ttgmod:block/pretzel_bowl_block_7" },
+    "bowl_state=6": { "model": "ttgmod:block/pretzel_bowl_block_6" },
+    "bowl_state=5": { "model": "ttgmod:block/pretzel_bowl_block_5" },
+    "bowl_state=4": { "model": "ttgmod:block/pretzel_bowl_block_4" },
+    "bowl_state=3": { "model": "ttgmod:block/pretzel_bowl_block_3" },
+    "bowl_state=2": { "model": "ttgmod:block/pretzel_bowl_block_2" },
+    "bowl_state=1": { "model": "ttgmod:block/pretzel_bowl_block_1" },
+    "bowl_state=0": { "model": "ttgmod:block/pretzel_bowl_block_0" }
+  }
+}

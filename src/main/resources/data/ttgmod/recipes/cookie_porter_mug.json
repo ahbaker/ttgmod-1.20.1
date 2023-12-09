@@ -1,0 +1,15 @@
+{
+  "type": "ttgmod:brew_keg_recipe",
+  "output": "ttgmod:cookie_porter_mug",
+  "ingredients": [
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:wheat"},
+    {"item": "minecraft:cookie"},
+    {"item": "minecraft:cookie"}
+  ],
+  "liquid": "minecraft:milk_bucket",
+  "container": "ttgmod:empty_wood_mug",
+  "cookTicks": 200,
+  "name": "Cookie Porter",
+  "makes": 4
+}
